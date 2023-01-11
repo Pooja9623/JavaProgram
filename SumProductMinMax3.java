@@ -22,7 +22,8 @@ public class SumProductMinMax3 {
 		   System.out.println("Max = "+max);
 		   int min = a<b?(a<c?a:c):(b<c?b:c);
 		   System.out.println("Min = "+min);
-
+		   
+		   s.close();
 	}
 
 }

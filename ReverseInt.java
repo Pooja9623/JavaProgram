@@ -15,6 +15,7 @@ public class ReverseInt {
 			n /= 10;
 		}
 		System.out.println("The reverse number is "+i);
+	s.close();
 	}
 
 }
