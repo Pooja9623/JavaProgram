@@ -1,6 +1,6 @@
 package prog;
 
-public class firstprog {
+public class Firstprog {
 	
 	
 	public static void main(String[] args) {
